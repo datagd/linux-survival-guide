@@ -1,3 +1,3 @@
-*.js linguist-language=Java
-*.css linguist-language=Java
-*.html linguist-language=Iava
+*.js linguist-language=Shell
+*.css linguist-language=Shell
+*.html linguist-language=Shell
